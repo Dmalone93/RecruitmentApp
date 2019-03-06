@@ -9,7 +9,7 @@ This made it difficult to navigate these websites, so we want to provide a solut
 ## Project Scope
 
 ### MVP
-The app should display all jobs on the main page, without any other clutter (advertising, distracting links, etc.).
+* The app should display all jobs on the main page, without any other clutter (advertising, distracting links, etc.).
 * The app should allow the user to view jobs without having to give over any details/login information.
 * The app should allow the user to filter by role (software developer, tester, product owner, etc.).
 * The app should allow the user to filter by skill level (graduate, junior, mid-level, senior).
