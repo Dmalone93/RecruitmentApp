@@ -1,5 +1,6 @@
 # ## Brief
 Develop a full stack app to facilitate users to browse jobs and clients to add jobs.
+
 **Why?**
 As two (trainee) Software Engineers who are looking at the jobs market, we noticed the overcomplicated and oversaturated visual design of recruitment websites.
 This made it difficult to navigate these websites, so we want to provide a solution to this problem.
