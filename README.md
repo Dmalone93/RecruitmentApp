@@ -62,6 +62,9 @@ Project is: _in progress_
 # Filter Dropdown
 ![](planning/images/image2.png)
 
+# Job Description Dropdown
+![](planning/images/image4.png)
+
 # Add Job to List
 ![](planning/images/image3.png)
 
