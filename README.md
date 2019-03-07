@@ -20,7 +20,7 @@ Develop a full stack app to facilitate users to browse jobs and clients to add j
 * [Global Scope](#global-scope)
 * [Status](#status)
 * [Technologies](#technologies)
-* [Screenshots] (#screenshots)
+* [Screenshots](#screenshots)
 
 ## MVP
  * The app should display all jobs on the main page, without any other clutter (advertising, distracting links, etc.).
