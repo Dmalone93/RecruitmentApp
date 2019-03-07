@@ -56,4 +56,13 @@ Project is: _in progress_
 * Others - Spring, React, Hibernate
 
 ## Screenshots
+# Front Page
+![](planning/images/image1.png)
+
+# Filter Dropdown
+![](planning/images/image2.png)
+
+# Add Job to List
+![](planning/images/image3.png)
+
 
