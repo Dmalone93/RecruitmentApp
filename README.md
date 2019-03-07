@@ -1,15 +1,12 @@
-### Brief
+# Paired Project: Recruitment App
 
+## Brief
+Develop a full stack app to facilitate users to browse jobs and clients to add jobs.
 
 **Why?**
 
 As two (trainee) Software Engineers who are looking at the jobs market, we noticed the overcomplicated and oversaturated visual design of recruitment websites.
 This made it difficult to navigate these websites, so we want to provide a solution to this problem.
-
-# Paired Project: Recruitment App
-
-## Brief
-Develop a full stack app to facilitate users to browse jobs and clients to add jobs.
 
 ## Time Restraint
 6 days
@@ -56,16 +53,16 @@ Project is: _in progress_
 * Others - Spring, React, Hibernate
 
 ## Screenshots
-# Front Page
+### Front Page
 ![](planning/images/image1.png)
 
-# Filter Dropdown
+### Filter Dropdown
 ![](planning/images/image2.png)
 
-# Job Description Dropdown
+### Job Description Dropdown
 ![](planning/images/image4.png)
 
-# Add Job to List
+### Add Job to List
 ![](planning/images/image3.png)
 
 
