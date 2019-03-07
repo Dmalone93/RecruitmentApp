@@ -47,19 +47,11 @@ class FilterContainer extends Component {
        }
      }
 
-     // if (this.state.role){
-     //   filteredJobs = filteredJobs.filter(job => {
-     //     return job.role === this.state.role
-     //   })
-     // }
-
-
-
      this.props.handleFilter(filteredJobs);
    }
 
   render(){
-    // console.log('allJobs', this.props.jobsData);
+
     return(
       <div className="filter-container">
       <div className="text-right">
