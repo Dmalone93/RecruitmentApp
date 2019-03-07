@@ -20,8 +20,7 @@ Develop a full stack app to facilitate users to browse jobs and clients to add j
 * [Global Scope](#global-scope)
 * [Status](#status)
 * [Technologies](#technologies)
-* [What I Have Learned And Enjoyed](#what-i-have-learned-and-enjoyed)
-* [Parting Words](#parting-words)
+* [Screenshots] (#screenshots)
 
 ## MVP
  * The app should display all jobs on the main page, without any other clutter (advertising, distracting links, etc.).
@@ -56,5 +55,5 @@ Project is: _in progress_
 * Database - PSQL
 * Others - Spring, React, Hibernate
 
-## What I Have Learned and Enjoyed
+## Screenshots
 
