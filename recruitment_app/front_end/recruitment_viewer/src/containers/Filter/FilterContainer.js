@@ -10,6 +10,7 @@ class FilterContainer extends Component {
      this.state = {
        collapse: false,
        criteria: {
+         salary:null,
          role: null,
          skillLevel: null,
          jobType: null
